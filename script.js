@@ -1,0 +1,1 @@
+[script.js sisältö, kopioidaan index.html:stä, rivit 163–514]
